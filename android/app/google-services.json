@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24232795457",
+    "project_id": "mithaqd-e9273",
+    "storage_bucket": "mithaqd-e9273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24232795457:android:6ffa6366efd0d04788d5c0",
+        "android_client_info": {
+          "package_name": "com.example.fournitour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24232795457-1t8al4ib59oq2tonm9dag2c6ksdj2la7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fournitour",
+            "certificate_hash": "50d824d7d9dcdf642e3b1163a30efef590bfc3b4"
+          }
+        },
+        {
+          "client_id": "24232795457-37prml4ieo4jv4e23ta1av6n30nodvo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASiL3EsF4IodMxeMfX7FrkzRLV9G2505Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24232795457-37prml4ieo4jv4e23ta1av6n30nodvo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
